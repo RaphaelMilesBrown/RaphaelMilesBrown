@@ -4,11 +4,9 @@ I'm Raphael! I'm a self-taught front end developer, currently documenting my jou
 
 Socials:
 
-🔨 - Building
-
-🤝 - Collaborating
-
-📖 - Learning
+- 🔨 Building
+- 🤝 Collaborating
+- 📖 Learning
 
 
 
