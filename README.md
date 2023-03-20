@@ -2,6 +2,11 @@
 
 I'm Raphael! I'm a self-taught front end developer, currently documenting my journey here on GitHub and on YouTube.
 
+Socials:
+
+- Twitter: ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+
 <!--
 **RaphaelMilesBrown/RaphaelMilesBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
