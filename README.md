@@ -3,7 +3,7 @@
 I'm Raphael! I'm a self-taught front end developer, currently documenting my journey here on GitHub and on YouTube.
 
 Socials:
-
+:sunny:
 - Twitter: ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 
