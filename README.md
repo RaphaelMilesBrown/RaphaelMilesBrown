@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Raphael! I'm a self-taught front end developer
+I'm Raphael! I'm a self-taught front end developer, currently documenting my journey here on GitHub and on YouTube.
 
 <!--
 **RaphaelMilesBrown/RaphaelMilesBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
