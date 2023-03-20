@@ -3,9 +3,11 @@
 I'm Raphael! I'm a self-taught front end developer, currently documenting my journey here on GitHub and on YouTube.
 
 Socials:
-:sunny:
+
 🔨 - Building
+
 🤝 - Collaborating
+
 📖 - Learning
 
 
